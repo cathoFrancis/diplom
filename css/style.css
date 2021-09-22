@@ -1532,7 +1532,7 @@ body {
    .front__card,
    .back__card {
       position: static;
-      msx-width: 100%;
+      max-width: 100%;
       height: 100%;
       backface-visibility: visible;
    }
